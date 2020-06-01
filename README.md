@@ -1,10 +1,12 @@
 # Installation
 
-npm install
+follow [these instructions](https://www.npmjs.com/get-npm) to install npm
+
+$ npm install
 
 # Running Tests
 
-npm run test
+$ npm run test
 
 # Organization
 
