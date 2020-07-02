@@ -1,3 +1,6 @@
+# Overview 
+completes some days of https://adventofcode.com/
+
 # Installation
 
 follow [these instructions](https://www.npmjs.com/get-npm) to install npm
